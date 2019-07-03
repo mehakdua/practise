@@ -1,4 +1,5 @@
 My name is Neetu
+>>>>>>> MEH-1: Fix myfile
 Age is 29 yrs old.
 I work in IT firm.
 I earn decent salary.
